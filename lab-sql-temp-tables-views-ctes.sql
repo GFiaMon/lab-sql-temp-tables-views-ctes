@@ -82,6 +82,7 @@ using (customer_id)
 group by customer_id
 ;
 
+/*
 Show tables;
 -- to see all the columms i wanted:
 CREATE TEMPORARY TABLE temp_customer_payments AS
@@ -97,7 +98,7 @@ group by customer_id, customer_id,
     last_name,
     email
 ;
-
+*/
 
 -- Option 2
 /*
